@@ -15,6 +15,15 @@ pip install -r requirements.txt
 
 It is recommended to create a directory named `work_dirs` and put temporary results into it.
 
+3. Run demos
+
+Take the ddpm as an example:
+
+```shell
+python ./dldemos/ddpm/dataset.py
+python ./dldemos/ddpm/main.py
+```
+
 # Description
 
 Demos for deep learning.
